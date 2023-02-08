@@ -1,6 +1,6 @@
 ## Elev8assessments Mini Crm
 
-To make project run and testable Run <br/>
+To make project run and be testable Run <br/>
 ``php artisan migrate`` <br/>
 Then <br/>
 ``php artisan db:seed``
